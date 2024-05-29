@@ -2,6 +2,8 @@
 
 This is a simple slot machine game implemented in Python. The game is based on a 3x3 grid of symbols, and the player can bet on up to 3 lines.
 
+<img align="right" alt="Coding" width="450" src="https://tenor.com/biAVa.gif">
+
 ## Code Structure
 
 The code is structured as follows:
