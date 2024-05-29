@@ -2,7 +2,7 @@
 
 This is a simple slot machine game implemented in Python. The game is based on a 3x3 grid of symbols, and the player can bet on up to 3 lines.
 
-![]([https://tenor.com/view/toilet-paper-slot-machine-las-vegas-quarantine-casino-gif-16785818](https://tenor.com/view/toilet-paper-slot-machine-las-vegas-quarantine-casino-gif-16785818))
+![](https://media1.tenor.com/m/vh6UO80RFmYAAAAd/toilet-paper-slot-machine.gif)
 
 
 ## Code Structure
