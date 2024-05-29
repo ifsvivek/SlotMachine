@@ -33,5 +33,6 @@ The function is currently incomplete and will be updated in future versions of t
 To run the game, you will need to have Python installed on your machine. You can then run the `slotmachine.py` script from your terminal.
 
 
-## Disclaimer: Responsible Gaming Notice
+## Disclaimer
+### Responsible Gaming Notice
 This slot machine game is for entertainment purposes only. It is not intended to simulate real-world gambling and should not be used as a substitute for responsible gaming practices.
